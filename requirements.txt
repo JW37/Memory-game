@@ -1,0 +1,9 @@
+## 📦 Requirements
+
+To run this project, you only need:
+
+- A modern web browser (Chrome, Edge, Firefox, Safari)
+- A code editor (optional, for viewing/editing code)
+  - Examples: VS Code, Sublime Text, Notepad++
+
+No external libraries or installations are required.
