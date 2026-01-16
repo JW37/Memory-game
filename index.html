@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Memory Brain Test</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<div class="wrapper">
+  <h1>🧠 Memory Brain Test</h1>
+  <p class="hint">
+    Remember the shapes! You have 3 seconds.
+  </p>
+
+  <div id="board" class="board"></div>
+
+  <div class="info">
+    <span>Moves: <b id="moves">0</b></span>
+    <button onclick="startGame()">Start Game</button>
+  </div>
+
+  <p id="status"></p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
